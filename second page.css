@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(255, 231, 186);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(102, 0, 102);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(51, 102, 204);
+    font-weight: bold;
+}
+
+a:hover {
+    color: rgb(204, 0, 0);
+}
+
+p {
+    text-align: center;
+    color: rgb(0, 51, 102);
+    margin-top: 20px;
+}
